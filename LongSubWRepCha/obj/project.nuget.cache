@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LnO0qX2B1s8GwvuSqHqvyG6SfE0v3/mGICpjCzyzNVgb1lFO/OVcCsjZ9JEREa9Wx5ZVX9s81Wyh+zB5LtYAQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ad_ca\\source\\repos\\LongSubWRepCha\\LongSubWRepCha\\LongestSubstr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ad_ca\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ad_ca\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ad_ca\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ad_ca\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

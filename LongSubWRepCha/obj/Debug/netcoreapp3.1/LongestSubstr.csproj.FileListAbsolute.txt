@@ -1,0 +1,4 @@
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\obj\Debug\netcoreapp3.1\LongestSubstr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\obj\Debug\netcoreapp3.1\LongestSubstr.AssemblyInfoInputs.cache
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\obj\Debug\netcoreapp3.1\LongestSubstr.AssemblyInfo.cs
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\obj\Debug\netcoreapp3.1\LongestSubstr.csproj.CoreCompileInputs.cache
