@@ -1,4 +1,7 @@
 ﻿using System;
+/*
+ * @author Billy Bedon Pacheco
+ */
 
 namespace LongestSubstr
 {

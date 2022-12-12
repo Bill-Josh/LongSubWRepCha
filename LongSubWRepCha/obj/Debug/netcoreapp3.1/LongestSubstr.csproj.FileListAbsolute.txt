@@ -2,3 +2,13 @@ C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\obj\Debug\netcoreapp3.
 C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\obj\Debug\netcoreapp3.1\LongestSubstr.AssemblyInfoInputs.cache
 C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\obj\Debug\netcoreapp3.1\LongestSubstr.AssemblyInfo.cs
 C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\obj\Debug\netcoreapp3.1\LongestSubstr.csproj.CoreCompileInputs.cache
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\bin\Debug\netcoreapp3.1\LongestSubstr.exe
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\bin\Debug\netcoreapp3.1\LongestSubstr.deps.json
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\bin\Debug\netcoreapp3.1\LongestSubstr.runtimeconfig.json
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\bin\Debug\netcoreapp3.1\LongestSubstr.runtimeconfig.dev.json
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\bin\Debug\netcoreapp3.1\LongestSubstr.dll
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\bin\Debug\netcoreapp3.1\LongestSubstr.pdb
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\obj\Debug\netcoreapp3.1\LongestSubstr.csproj.AssemblyReference.cache
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\obj\Debug\netcoreapp3.1\LongestSubstr.dll
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\obj\Debug\netcoreapp3.1\LongestSubstr.pdb
+C:\Users\ad_ca\source\repos\LongSubWRepCha\LongSubWRepCha\obj\Debug\netcoreapp3.1\LongestSubstr.genruntimeconfig.cache
