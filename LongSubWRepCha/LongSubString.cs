@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 /*
- * author Billy Bedon Pacheco
+ *@author Billy Bedon Pacheco
  */
 
 namespace LongestSubstr
